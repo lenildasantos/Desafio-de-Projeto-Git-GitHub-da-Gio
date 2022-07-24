@@ -1,3 +1,2 @@
-# Desafio-de-Código-do-git-github
-Criando meu Primeiro Repositório no Github
-Desafio  de  Projeto
+# Repositório do Desafio de Projeto sobre Git e Github da Gio
+Criando meu Primeiro Repositório
